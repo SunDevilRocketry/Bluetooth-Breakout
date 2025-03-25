@@ -1,5 +1,9 @@
 (sym_lib_table
   (version 7)
   (lib (name "STM32WBA50")(type "KiCad")(uri "/Users/dave/Documents/GitHub/Bluetooth-Breakout/Kicad Files/Lib/STM32WBA50KGU6/2025-03-05_01-08-23.kicad_sym")(options "")(descr ""))
+  (lib (name "Flight-Computer")(type "KiCad")(uri "/Users/dave/Documents/GitHub/Bluetooth-Breakout/Kicad Files/Lib/Flight-Computer.kicad_sym")(options "")(descr ""))
+  (lib (name "LM393F_GE2")(type "KiCad")(uri "/Users/dave/Documents/GitHub/Bluetooth-Breakout/Kicad Files/Lib/LM393F_GE2/2025-03-07_20-25-24.kicad_sym")(options "")(descr ""))
+  (lib (name "PPCC041")(type "KiCad")(uri "/Users/dave/Documents/GitHub/Bluetooth-Breakout/Kicad Files/Lib/PPCC041LFBN_R/PPCC041LFBN_R_lib/2025-03-25_06-12-24.kicad_sym")(options "")(descr ""))
+  (lib (name "PPTC061")(type "KiCad")(uri "/Users/dave/Documents/GitHub/Bluetooth-Breakout/Kicad Files/Lib/PPTC061LFBN_R/PPTC061LFBN_R_lib/2025-03-25_06-13-42.kicad_sym")(options "")(descr ""))
   (lib (name "W3008")(type "KiCad")(uri "/Users/dave/Documents/GitHub/Bluetooth-Breakout/Kicad Files/Lib/W3008/W3008.kicad_sym")(options "")(descr ""))
 )
